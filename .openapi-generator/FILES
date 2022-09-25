@@ -1,0 +1,9 @@
+.openapi-generator-ignore
+Apis/SmsApi.md
+Models/Cost.md
+Models/CreateMessageInput.md
+Models/Error.md
+Models/Message.md
+Models/Network.md
+Models/Pricing.md
+README.md
